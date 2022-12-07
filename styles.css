@@ -1,0 +1,38 @@
+body {
+    background: rgba(109, 128, 105, 0.3);
+}
+
+.img {
+    border-radius: 8%;
+}
+
+.t {
+    color: #0c3800;
+    padding: 5px;
+    font-style: oblique;
+}
+
+.ref {
+    color: #ffffff;
+}
+
+.but {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    flex: 1 1 auto;
+    padding: 10px;
+    text-align: center;
+
+    text-transform: uppercase;
+    color: #364f2e;
+    border-radius: 10px;
+    margin: 0 10px 0;
+    background-size: 200% auto;
+}
+
+.table, tr, td {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #030900;
+
+}
